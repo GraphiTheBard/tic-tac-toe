@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522389079029",
+    "project_id": "multi-tictactoe-flutter",
+    "storage_bucket": "multi-tictactoe-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522389079029:android:ae6eba0d89e3785c08d6bc",
+        "android_client_info": {
+          "package_name": "com.GraphiTheBard.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522389079029-li6i2blm3gm1kmtif07stb0310hdqk49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLiiEFmJnKLaFIuEqgGKGSl3OCLQIwu8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522389079029-li6i2blm3gm1kmtif07stb0310hdqk49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
